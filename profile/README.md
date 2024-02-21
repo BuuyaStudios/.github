@@ -26,7 +26,7 @@ Pean is our flagship project, bringing Music and Beats to your Discord Server. C
 - 🎶 Continuously evolving with new features and enhancements.
 - 🚀 Loved by a growing community of Discord enthusiasts.
 
-<img src="pean_review.png" alt="Pean Achievement" width="620"/>
+<img src="profile/pean_review.png" alt="Pean Achievement" width="620"/>
 
 Thank you for being part of the musical journey with Pean! Let's keep the beats alive! 🎉
 
