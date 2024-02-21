@@ -6,7 +6,7 @@ Hey there! 👋 Welcome to BXDev Technology's GitHub repository. We're thrilled 
 
 ## About Us
 
-At BXDev Technology, we're on a mission to [brief and engaging description of your company's mission and goals]. 🚀
+At BXDev Technology, we're on a mission to CODE. INNOVATE. ELAVATE. This generation of young developers and client from all accross the globe. 🚀
 
 ## Featured Project: Pean - Discord Bot
 
@@ -14,7 +14,7 @@ At BXDev Technology, we're on a mission to [brief and engaging description of yo
 
 ### What is Pean?
 
-Pean is our flagship project, bringing [brief and engaging description of Pean]. Check out the code, contribute, and let's make Pean even more awesome together!
+Pean is our flagship project, bringing Music and Beats to your Discord Server. Check out the code, contribute, and let's make Pean even more awesome together!
 
 - **Repository**: ![Pean Discord Bot](https://github.com/BXDevTech/Pean)
 
