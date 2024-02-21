@@ -1,6 +1,6 @@
 # Welcome to BXDev Technology
 
-<img src="img/logo.png" alt="BXDev Technology Logo" width="200"/> <img src="img/banner.jpg" alt="BXDev Technology Banner" width="600"/>
+<img src="img/logo.png" alt="BXDev Technology Logo" width="200"/> <img src="img/banner.jpg" alt="BXDev Technology Banner" width="700"/>
 
 Hey there! 👋 Welcome to BXDev Technology's GitHub repository. We're thrilled to have you here! Explore our innovative projects, exciting codebase, and join us on this tech journey.
 
@@ -10,7 +10,7 @@ At BXDev Technology, we're on a mission to [brief and engaging description of yo
 
 ## Featured Project: Pean - Discord Bot
 
-<img src="img/pean_logo" alt="Pean Logo" width="200"/> <img src="img/pean_banner.jpg" alt="Pean Banner" width="600"/>
+<img src="img/pean_logo.png" alt="Pean Logo" width="200"/> <img src="img/pean_banner.jpg" alt="Pean Banner" width="700"/>
 
 ### What is Pean?
 
@@ -26,7 +26,7 @@ Ready to dive in? Follow these simple steps to get started:
 2. **Install Dependencies**: [Instructions on how to install dependencies]
 3. **Build and Run**: [Instructions on how to build and run the project]
 
-Need help or have questions? Reach out to us at [contact@bxdevtech.com] - we're here for you!
+Need help or have questions? Reach out to us at [bxdevtech@gmail.com] - we're here for you!
 
 ## 🚀 Contribution Guidelines
 
