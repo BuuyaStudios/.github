@@ -10,7 +10,7 @@ At BXDev Technology, we're on a mission to CODE. INNOVATE. ELAVATE. This generat
 
 ### 🩵 Featured Project: Even - Discord Bot
 
-<img src="https://github.com/BXDevTech/Even/blob/main/assets/even_logo.png" alt="Even Logo" width="200"/> <img src="https://github.com/BXDevTech/Even/blob/main/assets/even_banner.png" alt="Even Banner" width="620"/>
+<img src="https://github.com/BXDevTech/Even/blob/main/Assets/even_logo.png" alt="Even Logo" width="200"/> <img src="https://github.com/BXDevTech/Even/blob/main/Assets/even_banner.png" alt="Even Banner" width="620"/>
 
 ### What is Even?
 
@@ -30,7 +30,7 @@ Benin is our flagship project, bringing memes and laughter to your Discord Serve
 
 - ### 💚 Pean - Discord Bot
 
-<img src="https://github.com/BXDevTech/Pean/blob/main/assets/pean_logo.png" alt="Pean Logo" width="200"/> <img src="https://github.com/BXDevTech/Pean/blob/main/assets/pean_banner.png" alt="Pean Banner" width="620"/>
+<img src="https://github.com/BXDevTech/Pean/blob/main/assets/pean_logo.png" alt="Pean Logo" width="200"/> <img src="https://github.com/BXDevTech/Pean/blob/main/assets/pean_banner.jpg" alt="Pean Banner" width="620"/>
 
 ### What is Pean?
 
