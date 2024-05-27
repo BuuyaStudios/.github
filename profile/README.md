@@ -8,7 +8,17 @@ Hey there! 👋 Welcome to BXDev Technology's GitHub repository. We're thrilled 
 
 At BXDev Technology, we're on a mission to CODE. INNOVATE. ELAVATE. This generation of young developers and client from all accross the globe. 🚀
 
-### Featured Project: Benin - Discord Bot
+### 🩵 Featured Project: Even - Discord Bot
+
+<img src="https://github.com/BXDevTech/Even/blob/main/assets/even_logo.png" alt="Even Logo" width="200"/> <img src="https://github.com/BXDevTech/Even/blob/main/assets/even_banner.png" alt="Even Banner" width="620"/>
+
+### What is Even?
+
+Even is our flagship project, bringing weebs and neeks to your Discord Server. Check out the code, contribute, and let's make Even even more awesome together!
+
+- **Repository**: [Even Discord Bot](https://github.com/BXDevTech/Even)
+
+- ### 🧡 Benin - Discord Bot
 
 <img src="https://github.com/BXDevTech/Benin/blob/main/assets/benin_logo.png" alt="Benin Logo" width="200"/> <img src="https://github.com/BXDevTech/Benin/blob/main/assets/benin_banner.png" alt="Benin Banner" width="620"/>
 
@@ -17,6 +27,16 @@ At BXDev Technology, we're on a mission to CODE. INNOVATE. ELAVATE. This generat
 Benin is our flagship project, bringing memes and laughter to your Discord Server. Check out the code, contribute, and let's make Benin even more awesome together!
 
 - **Repository**: [Benin Discord Bot](https://github.com/BXDevTech/Benin)
+
+- ### 💚 Pean - Discord Bot
+
+<img src="https://github.com/BXDevTech/Pean/blob/main/assets/pean_logo.png" alt="Pean Logo" width="200"/> <img src="https://github.com/BXDevTech/Pean/blob/main/assets/pean_banner.png" alt="Pean Banner" width="620"/>
+
+### What is Pean?
+
+Pean is our flagship project, bringing music and beats to your Discord Server. Check out the code, contribute, and let's make Benin even more awesome together!
+
+- **Repository**: [Pean Discord Bot](https://github.com/BXDevTech/Pean)
 
 ### Achievement Unlocked: 🎵 Pean - Discord Bot
 
