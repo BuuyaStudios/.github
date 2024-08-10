@@ -1,6 +1,6 @@
 ## Welcome to BXDev Technology
 
-<img src="profile/logo.png" alt="BXDev Technology Logo" width="200"/> <img src="profile/banner.jpg" alt="BXDev Technology Banner" width="620"/>
+<img src="https://github.com/BXDevTech/.github/blob/main/profile/logo.png" alt="BXDev Technology Logo" width="200"/> <img src="https://github.com/BXDevTech/.github/blob/main/profile/banner.jpg" alt="BXDev Technology Banner" width="620"/>
 
 Hey there! 👋 Welcome to BXDev Technology's GitHub repository. We're thrilled to have you here! Explore our innovative projects, exciting codebase, and join us on this tech journey.
 
@@ -46,7 +46,7 @@ Pean is our flagship project, bringing music and beats to your Discord Server. C
 - 🎶 Continuously evolving with new features and enhancements.
 - 🚀 Loved by a growing community of Discord enthusiasts.
 
-<img src="profile/pean_review.png" alt="Pean Achievement" width="620"/>
+<img src="https://github.com/BXDevTech/.github/blob/main/profile/pean_review.png" alt="Pean Achievement" width="620"/>
 
 Thank you for being part of the musical journey with Pean! Let's keep the beats alive! 🎉
 
