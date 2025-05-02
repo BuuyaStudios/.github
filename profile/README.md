@@ -1,7 +1,5 @@
 ## Welcome to Buuya Studio
 
-<img src="https://github.com/BXDevTech/.github/blob/main/profile/logo.png" alt="Buuya Studio Logo" width="200"/> <img src="https://github.com/BuuyaStudio/.github/blob/main/profile/banner.jpg" alt="Buuya Studio Banner" width="620"/>
-
 Hey there! 👋 Welcome to Buuya Studio's GitHub repository. We're thrilled to have you here! Explore our innovative projects, exciting codebase, and join us on this tech journey.
 
 ### About Us
